@@ -1,8 +1,8 @@
 {
-  "name": "@lexical/monorepo",
-  "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
-  "version": "0.3.8",
-  "license": "MIT",
+  "name": "JaffleHypnote",
+  "description": "A note taking application that allows collaboration and sharing feature on public and private notes.",
+  "version": "0.1.0",
+  "license": "Proprietary",
   "private": true,
   "workspaces": [
     "packages/*"
